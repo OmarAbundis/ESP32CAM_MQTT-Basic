@@ -7,8 +7,7 @@ Este repositorio contiene el programa básico para conectar el ESP32CAM a MQTT, 
   
 Puedes encontrar el curso correspondiente a este ejercicio en el siguiente enlace.
 
-  
-https://edu.codigoiot.com/
+  https://edu.codigoiot.com/
 
   
 ### Requisitos
